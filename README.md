@@ -6,7 +6,7 @@ In this project we tried to combine the real world with digital information with
 
 
 1. Image Capture and Processing
-An image of the empty wall in room H238 is captured using a camera or any imaging device. OpenCV, a popular computer vision library, is utilized for image processing and marker detection. The captured image is processed to detect ArUco markers using OpenCV’s ArUco and predefined dictionary and parameters.As shown in figure step one.
+An image of the empty wall in room H238 is captured using a camera or any imaging device. OpenCV, a popular computer vision library, is utilized for image processing and marker detection. The captured image is processed to detect ArUco markers using OpenCV’s ArUco and predefined dictionary and parameters.As shown in figure step one.
 
 
 ![1Process](https://github.com/Avanindra26/Augmented-Reality-Mixing-reality-with-digital-information/assets/30585056/dddb2201-f43d-4f73-b072-12465af81aaf)
